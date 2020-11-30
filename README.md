@@ -10,5 +10,6 @@ You can signout anytime using the signout feature in the side navigation drawer 
 I hope you enjoy the app , let's meet in the comment section of your blog
 
 <img src="screenshots/login.png" height = 400>    <img src="screenshots/signup.png" height = 400>    <img src="screenshots/home.png" height = 400>    <img src="screenshots/make blog post.png" height = 400>
-
+ 
+ 
 <img src="screenshots/blog post.png" height = 400> <img src="screenshots/comment.png" height = 400> <img src="screenshots/sideDrawer.png" height = 400>
